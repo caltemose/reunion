@@ -1,0 +1,40 @@
+@import "reset";
+
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  width: 90%;
+  margin: 0 auto;
+}
+
+h1 {
+  line-height: 110%;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+h2 {
+  margin-top: 10%;
+
+  &:first-child {
+    margin-top: 0;
+  }
+}
+
+ul {
+  margin-left: 0; 
+  padding-left: 8%;
+}
+
+li {
+  margin-bottom: 3%;
+}
+
+a {
+  color: #133cac;
+  text-decoration: none;
+
+  &:visited, &:active {
+    color: #1948cb;
+  }
+
+}
