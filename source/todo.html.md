@@ -16,7 +16,7 @@ There's more to do than just go to the beach.
 - barrier island eco tour [on tripadvisor](http://www.tripadvisor.com/Attraction_Review-g54283-d1136176-Reviews-Barrier_Islands_Eco_Tours-Isle_of_Palms_South_Carolina.html)
 
 
-## On Charleston Proper
+## Downtown Charleston 
 
 - Tour the Aiken-Rhett House
 - Tour the Nathaniel Russel House
@@ -27,12 +27,13 @@ There's more to do than just go to the beach.
 - Take a walking culinary tour of Charleston
 
 
-## On Sullivan's Island, Our Neighboring Island
+## On Sullivan's Island
 
 - Visit Fort Moultrie
 
 
 ## Around the Region
+
 - Go fishing
 - Take a coastal tour by boat
 - Tour Patriots' Point and Naval Museum

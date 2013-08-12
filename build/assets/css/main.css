@@ -1,0 +1,84 @@
+article, aside, details, figcaption, figure, footer, header, hgroup, nav, section, summary { display: block; }
+
+video { display: inline-block; *display: inline; *zoom: 1; }
+
+html { font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+
+html, button, input, select, textarea { font-family: serif; }
+
+a:focus { outline: thin dotted; }
+
+a:active, a:hover { outline: 0; }
+
+img { border: 0; -ms-interpolation-mode: bicubic; }
+
+svg:not(:root) { overflow: hidden; }
+
+figure { margin: 0; }
+
+form { margin: 0; }
+
+img { vertical-align: middle; }
+
+* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+
+body { font-family: "PT Sans", Helvetica, Arial, sans-serif; margin: 1em; background: #dddddd; color: black; line-height: 120%; }
+
+h1 { font-size: 1.3em; font-family: "Arvo", Helvetica, Arial, sans-serif; font-weight: 700; line-height: 105%; }
+h1 > small { display: block; margin-top: 0.3em; font-size: 0.7em; font-family: "PT Sans", Helvetica, Arial, sans-serif; font-weight: normal; color: rgba(0, 0, 0, 0.6); line-height: 100%; }
+h1 > a { display: block; margin: 0.3em 0 0; font-size: 0.7em; }
+
+h2 { margin-top: 1.5em; }
+
+h3 { margin: 2em 0 0.5em; }
+
+h2 + h3 { margin-top: 0; }
+
+p { margin: 0.3em 0 0.5em; }
+
+a { color: #2577a1; text-decoration: none; }
+a:hover { color: #123a4e; }
+
+a.signature { display: inline-block; margin-top: 1em; }
+
+ol, ul { width: 94%; margin-left: 0; padding-left: 12%; }
+
+li { margin-bottom: 0.3em; }
+
+ul.simple { width: 100%; margin-left: 0; padding-left: 0; list-style-type: none; }
+ul.simple li { margin-bottom: 0.5em; }
+
+dl { width: 80%; margin: 1em auto; }
+
+dt, dd { vertical-align: top; margin-bottom: 0.5em; padding-top: 0.3em; border-top: 1px solid #999; }
+
+dt { float: left; width: 20%; }
+
+dd { width: 80%; }
+
+code { padding: 0.1em; background: #e7e7e7; color: #0F520D; font-family: 'Monaco', 'Lucida Console', 'Andale Mono', FreeMono, 'Osaka Monospaced', Courier, monospace; font-size: 0.9em; }
+
+pre { background: #222222; display: block; padding: 0.4em; overflow: hidden; font-size: 0.8em; }
+
+pre > code { color: #b8ffba; background: none; }
+
+pre .content { color: #e8dd83; }
+
+body > footer { margin-top: 3em; font-size: 0.7em; }
+
+/*
+--------------------------------------------------------
+media query for middle/portrait size range
+
+*/
+@media screen and (min-width: 30em) { body { font-size: 19px; } }
+/*
+--------------------------------------------------------
+media query for larger devices
+
+*/
+@media screen and (min-width: 44em) { body { font-size: 21px; }
+  body > article, body > footer { width: 100%; max-width: 44rem; margin-left: auto; margin-right: auto; }
+  h1 { font-size: 2em; }
+  h1 small { font-size: 0.6em; }
+  ol, ul { padding-left: 8%; } }
