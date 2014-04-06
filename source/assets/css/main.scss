@@ -4,7 +4,7 @@ $maxWidthDesktop: 44em;
 $maxWidthDesktopRem: 44rem;
 $titleFont: 'Arvo', Helvetica, Arial, sans-serif;
 $copyFont: 'PT Sans', Helvetica, Arial, sans-serif;
-$bgColor: #ddd;
+$bgColor: #fff;
 $typeColor: #000;
 $linkColor: #2577A1;
 $hoverColor: darken($linkColor, 20%);
@@ -20,6 +20,23 @@ body {
   background: $bgColor;
   color: $typeColor;
   line-height: 120%;
+}
+
+body > header {
+  // background: #ccc;
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+      display: inline-block;
+      margin: 0 1.5em 0 0;
+      text-transform: uppercase;
+      font-size: 0.9em;
+    }
+  }
 }
 
 h1 {
@@ -80,7 +97,7 @@ a.signature {
 ol, ul {
   width: 94%;
   margin-left: 0;
-  padding-left: 12%;
+  padding-left: 6%;
 }
 
 li {
@@ -167,7 +184,7 @@ media query for larger devices
   
   body { font-size: 21px; }
 
-  body > article, body > footer {
+  body > article, body > footer, body > header {
     width: 100%;
     max-width: $maxWidthDesktopRem;
     margin-left: auto;

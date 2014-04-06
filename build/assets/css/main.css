@@ -22,7 +22,10 @@ img { vertical-align: middle; }
 
 * { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
 
-body { font-family: "PT Sans", Helvetica, Arial, sans-serif; margin: 1em; background: #dddddd; color: black; line-height: 120%; }
+body { font-family: "PT Sans", Helvetica, Arial, sans-serif; margin: 1em; background: white; color: black; line-height: 120%; }
+
+body > header ul { list-style-type: none; margin: 0; padding: 0; }
+body > header ul li { display: inline-block; margin: 0 1.5em 0 0; text-transform: uppercase; font-size: 0.9em; }
 
 h1 { font-size: 1.3em; font-family: "Arvo", Helvetica, Arial, sans-serif; font-weight: 700; line-height: 105%; }
 h1 > small { display: block; margin-top: 0.3em; font-size: 0.7em; font-family: "PT Sans", Helvetica, Arial, sans-serif; font-weight: normal; color: rgba(0, 0, 0, 0.6); line-height: 100%; }
@@ -41,7 +44,7 @@ a:hover { color: #123a4e; }
 
 a.signature { display: inline-block; margin-top: 1em; }
 
-ol, ul { width: 94%; margin-left: 0; padding-left: 12%; }
+ol, ul { width: 94%; margin-left: 0; padding-left: 6%; }
 
 li { margin-bottom: 0.3em; }
 
@@ -56,7 +59,7 @@ dt { float: left; width: 20%; }
 
 dd { width: 80%; }
 
-code { padding: 0.1em; background: #e7e7e7; color: #0F520D; font-family: 'Monaco', 'Lucida Console', 'Andale Mono', FreeMono, 'Osaka Monospaced', Courier, monospace; font-size: 0.9em; }
+code { padding: 0.1em; background: white; color: #0F520D; font-family: 'Monaco', 'Lucida Console', 'Andale Mono', FreeMono, 'Osaka Monospaced', Courier, monospace; font-size: 0.9em; }
 
 pre { background: #222222; display: block; padding: 0.4em; overflow: hidden; font-size: 0.8em; }
 
@@ -78,7 +81,7 @@ media query for larger devices
 
 */
 @media screen and (min-width: 44em) { body { font-size: 21px; }
-  body > article, body > footer { width: 100%; max-width: 44rem; margin-left: auto; margin-right: auto; }
+  body > article, body > footer, body > header { width: 100%; max-width: 44rem; margin-left: auto; margin-right: auto; }
   h1 { font-size: 2em; }
   h1 small { font-size: 0.6em; }
   ol, ul { padding-left: 8%; } }

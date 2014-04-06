@@ -29,6 +29,27 @@ Arrival details and important information will be posted closer to the trip.
 - [sandcastle contest results](/sandcastles)
  -->
 
-<br><br>
+## Weather
 
-*Embedded IoP weather*
+It will be hot and humid. Guaranteed. That's why we have a/c, a pool, and the ocean.
+
+
+
+## Packing
+
+I'm not going to tell you what to bring but you should definitely consider:
+
+- bathing suit
+- suntan lotion
+- a sun-blocking hat
+- good walking shoes (Charleston still has a few cobblestone streets)
+
+
+## Still To Come
+
+We'll be adding more content to this site once we get closer and once we have some feedback from everyone in terms of scheduling things to do.
+
+- a schedule of things we'll do together
+- meal teams/schedule
+
+
