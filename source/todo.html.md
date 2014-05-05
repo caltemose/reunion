@@ -18,7 +18,7 @@ There's more to do than just go to the beach.
 - barrier island eco tour ([an example on tripadvisor](http://www.tripadvisor.com/Attraction_Review-g54283-d1136176-Reviews-Barrier_Islands_Eco_Tours-Isle_of_Palms_South_Carolina.html))
 - Visit [Fort Moultrie](http://www.nps.gov/fosu/historyculture/fort_moultrie.htm) (It's on Sullivan's Island which is right next to the Isle of Palms)
 - Get a mani/pedi, massage etc at [a spa near our houses](http://www.beachhousespa.net/)
-
+- [Learn to Surf](http://olinah.com/lessons-instructions/) (2 blocks from home)
 
 ## Downtown Charleston 
 
