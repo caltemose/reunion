@@ -38,12 +38,13 @@ It will be hot and humid. Guaranteed. That's why we have a/c, a pool, and the oc
 
 ## Packing
 
-I'm not going to tell you what to bring but you should definitely consider:
+You may wish to consider bringing:
 
-- bathing suit
+- a bathing suit
 - suntan lotion
 - a sun-blocking hat
 - good walking shoes (Charleston still has a few cobblestone streets)
+
 
 
 ## Still To Come

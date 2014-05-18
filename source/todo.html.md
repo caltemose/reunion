@@ -43,6 +43,7 @@ If you wish to tour either the Aiken-Rhett House or the Nathaniel Russell House,
 ## Around the Region
 
 - Go fishing
+- Take a [kayak tour](http://www.kayakcharlestonsc.com/tours.html)
 - Take a coastal tour by boat
 - Tour [Patriots' Point and Naval Museum](https://www.patriotspoint.org/) and hang out on an aircraft carrier
 - [Tour Westbrook Brewery](http://westbrookbrewing.com/) (tours Tuesday - Friday 4-7) (free)
@@ -54,4 +55,8 @@ If you wish to tour either the Aiken-Rhett House or the Nathaniel Russell House,
 - Visit [Drayton Hall Plantation](http://www.draytonhall.org/)
 - Visit [Charles Pickney Historic Site](http://www.nps.gov/chpi/index.htm) (free)
 - Visit a [Trappist Monastery](http://mepkinabbey.org/) (free)
+
+## Lake Marion/Lake Moultrie
+
+Either of these lakes would be great for a day spent on the lake canoeing or boating or renting a pontoon and having a cookout. Rent a pontoon/canoe/boat [here](http://www.lakemarionresortmarina.com/marina.php) or [here](http://www.lakemarionvacation.com/lake_marion_boat_rentals.html).
 
